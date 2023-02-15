@@ -20,4 +20,4 @@
 - VSCode
 - FIGMA
 
-## __[GitHub Pages](https://AlexPozdniak.github.io/russian-travel/)
+## [Ссылка на проект](https://AlexPozdniak.github.io/russian-travel/index.html)
