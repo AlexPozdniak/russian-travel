@@ -20,4 +20,4 @@
 - VSCode
 - FIGMA
 
-## [Ссылка на проект](https://AlexPozdniak.github.io/russian-travel/index.html)
+## [Ссылка на проект](https://AlexPozdniak.github.io/russian-travel/)
